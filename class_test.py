@@ -1,0 +1,6 @@
+print("I love programming...")
+print("Programming is fun!!!...")
+print("This is an interesting class...")
+print("I am learning Python...")
+print ("Python is a versatile language...")
+print ("I am learning git and versioning")
